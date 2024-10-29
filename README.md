@@ -1,10 +1,10 @@
 <h1>Hi, I'm Jordan! </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Apply filters to SQL queries](https://github.com/jordanjones3609/LABURL)
-  - [Algorithm for file updates in Python](https://github.com/jordanjones3609/LABURL)
-  - [File permissions in Linux](https://github.com/jordanjones3609/LABURL)
-  - [Incident report analysis](https://github.com/jordanjones3609/LABURL)
+  - [Apply filters to SQL queries](https://github.com/jordanjones3609/ApplyFiltersSQLQueries)
+  - [Algorithm for file updates in Python](https://github.com/jordanjones3609/FileUpdatesAlgorithmPython)
+  - [File permissions in Linux](https://github.com/jordanjones3609/LinuxFilePermissions)
+  - [Incident report analysis](https://github.com/jordanjones3609/IncidentReportAnalysis)
 
 
 <h2>📃 Certifications</h2>
