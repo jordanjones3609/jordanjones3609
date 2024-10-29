@@ -1,11 +1,16 @@
 <h1>Hi, I'm Jordan! </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/jordanjones3609/LABURL)
+  - [Apply filters to SQL queries](https://github.com/jordanjones3609/LABURL)
+  - [Algorithm for file updates in Python](https://github.com/jordanjones3609/LABURL)
+  - [File permissions in Linux](https://github.com/jordanjones3609/LABURL)
+  - [Incident report analysis](https://github.com/jordanjones3609/LABURL)
+
 
 <h2>📃 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/671b54a0-eb18-48c1-a949-a1458ef16f90/public_url)
+- CompTIA Security+ (Expected 12/24)
 
 <h2> 🤳 Connect with me:</h2>
 
