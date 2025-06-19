@@ -9,8 +9,10 @@
 
 <h2>📃 Certifications</h2>
 
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/671b54a0-eb18-48c1-a949-a1458ef16f90/public_url)
+- [CompTIA A+ (Expected 9/25)]
 - [CompTIA Security+](https://www.credly.com/badges/de90d755-d584-47b1-82fc-8407be8282d6/public_url)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/671b54a0-eb18-48c1-a949-a1458ef16f90/public_url)
+
 
 <h2> 🤳 Connect with me:</h2>
 
