@@ -1,5 +1,4 @@
 <h1>Hi, I'm Jordan! </h1>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5274223" style='border:none;'></iframe>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Apply filters to SQL queries](https://github.com/jordanjones3609/ApplyFiltersSQLQueries)
